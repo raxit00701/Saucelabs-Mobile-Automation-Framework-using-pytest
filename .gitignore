@@ -1,16 +1,11 @@
-# Python & venv
 .venv/
 __pycache__/
 *.pyc
 .pytest_cache/
 .env
 .env.*
-
-# IDE
 .idea/
 .vscode/
-
-# Mobile automation artifacts
 reports/
 artifacts/
 allure-results/
@@ -23,8 +18,6 @@ screenrecords/
 *.log
 *.mp4
 *.webm
-
-# Android/iOS app files & builds
 *.apk
 *.aab
 *.ipa
